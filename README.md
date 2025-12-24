@@ -40,7 +40,7 @@ SCOPE-Extended combines natural language processing with chemical informatics to
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/erdemonal11/SCOPE-extended.git
+git clone https://github.com/erdemonal/SCOPE-extended.git
 cd SCOPE-Extended
 ```
 
